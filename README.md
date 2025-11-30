@@ -1,6 +1,6 @@
 # My Projects on Github!
 
-##level data code, 
+## Level Data code
 * [here](https://github.com/level-data-1a/predicting-proficiency)
 
 ## Github Profile
