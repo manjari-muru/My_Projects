@@ -1,6 +1,10 @@
 # My Projects on Github!
 
-To access my level data code, please go [here](https://github.com/level-data-1a/predicting-proficiency) and to access my github profile, please go [here](https://github.com/manjari-muru)
+##level data code, 
+* [here](https://github.com/level-data-1a/predicting-proficiency)
+
+## Github Profile
+* [here](https://github.com/manjari-muru)
 
 ## Description of projects
 * Analysis on Memory and Anziety Medicaiton: Uses generated Kaggle Dataset to analyze the correlation between memory and various anxieyt mediations. 
